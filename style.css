@@ -1,0 +1,23 @@
+/*.first h2{
+    margin: 0 auto;
+}*/
+
+.frmfather_caption {
+    font-size: 24px;
+    text-align: center;  
+}
+ .frmfamily_caption{
+    font-size: 24px;
+    text-align: center;    
+ }
+.frmchild_caption{
+    font-size: 24px;
+    text-align: center; 
+}
+.fromFamily, .frmfather, .frmchild{
+    position:sticky;
+   background-color: rgb(209, 238, 238);
+   left: 200px;
+   width: 500px;
+   text-align: center;
+}
